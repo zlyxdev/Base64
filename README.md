@@ -1,10 +1,9 @@
-# README.md
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="100" alt="Logo">
 </p>
 
-<h1 align="center">Base64 Studio Pro</h1>
+<h1 align="center">Base64 Encode/Decode</h1>
 
 <p align="center">
   <strong>Biztonságos, offline és villámgyors asztali konverter fejlesztőknek.</strong>
