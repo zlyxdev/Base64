@@ -16,6 +16,8 @@
 
 ---
 
+<img width="530" height="692" alt="Untitled" src="https://github.com/user-attachments/assets/1ef5c5b4-c4cf-4bbd-8f27-2a4e241814ac" />
+
 ## ⚡ Funkciók
 
 - **Adatbiztonság**: 100% offline működés, az adatok soha nem hagyják el a gépedet.
