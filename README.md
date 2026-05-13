@@ -13,17 +13,18 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JS">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Security-Offline--Only-brightgreen?style=for-the-badge" alt="Security">
 </p>
 
 ---
 
 ### ⚡ Miért válaszd a Studio Pro-t?
 
-Az online konverterekkel ellentétben ez az eszköz **helyben, a saját gépeden** fut. Nem küld adatokat külső szerverekre, így bizalmas kulcsok vagy jelszavak kódolására is biztonságos választás.
+Az online konverterekkel ellentétben ez az eszköz **helyben, a saját gépeden** fut. Nem küld adatokat külső szerverekre, így bizalmas kulcsok, tokenek vagy jelszavak kódolására is a legbiztonságosabb választás.
 
 *   **Hibrid technológia**: A Python stabilitása és a HTML5/CSS rugalmassága egyetlen alkalmazásban.
-*   **Intelligens Padding**: Automatikusan javítja a hiányos Base64 stringeket a dekódolás előtt.
-*   **Fejlesztői UI**: Dark mode, monospaced betűtípus és azonnali hiba-visszajelzés.
+*   **Intelligens Padding**: Automatikusan korrigálja a hiányos Base64 stringeket a dekódolás előtt.
+*   **Fejlesztői UI**: Dark mode, monospaced (Fira Code) stílus és azonnali hiba-visszajelzés.
 *   **Zero-Dependency**: A standard könyvtárakon kívül csak a `pywebview` szükséges a futtatáshoz.
 
 ---
