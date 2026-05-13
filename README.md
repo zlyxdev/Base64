@@ -1,3 +1,4 @@
+# README.md
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="100" alt="Logo">
@@ -19,16 +20,36 @@
 ## ⚡ Funkciók
 
 - **Adatbiztonság**: 100% offline működés, az adatok soha nem hagyják el a gépedet.
-- **Hibrid motor**: Python backend és modern WebView frontend.
+- **Hibrid motor**: Python backend és modern WebView frontend (HTML5/CSS3/JS).
+- **Clean Architecture**: Szétválasztott üzleti logika és felhasználói felület.
 - **Intelligens korrekció**: Automatikus padding és bináris validáció.
 
 ---
 
 ## 🛠️ Használat
 
+A szoftver futtatásához kövesd az alábbi lépéseket:
+
 ```bash
+# Függőségek telepítése
 pip install pywebview
+
+# Alkalmazás indítása
 python Base64/main.py
+```
+
+---
+
+## 📂 Projektstruktúra
+
+```plaintext
+.
+├── Base64/
+│   ├── main.py
+│   └── index.html
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -40,4 +61,5 @@ Ez a szoftver oktatási célokat szolgál. A fejlesztő nem vállal felelősség
 ---
 
 ## 👨‍💻 Készítette
-**[zlyx.sh [zlyxdev]**
+
+**zlyx.sh (zlyxdev)**
