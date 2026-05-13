@@ -31,10 +31,8 @@
 A szoftver futtatásához kövesd az alábbi lépéseket:
 
 ```bash
-# Függőségek telepítése
 pip install pywebview
 
-# Alkalmazás indítása
 python Base64/main.py
 ```
 
