@@ -1,3 +1,5 @@
+# README.md
+
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="100" alt="Base64 Studio Logo">
 </p>
@@ -18,18 +20,18 @@
 
 ---
 
-### ⚡ Miért válaszd a Studio Pro-t?
+## ⚡ Miért válaszd a Studio Pro-t?
 
 Az online konverterekkel ellentétben ez az eszköz **helyben, a saját gépeden** fut. Nem küld adatokat külső szerverekre, így bizalmas kulcsok, tokenek vagy jelszavak kódolására is a legbiztonságosabb választás.
 
-*   **Hibrid technológia**: A Python stabilitása és a HTML5/CSS rugalmassága egyetlen alkalmazásban.
-*   **Intelligens Padding**: Automatikusan korrigálja a hiányos Base64 stringeket a dekódolás előtt.
-*   **Fejlesztői UI**: Dark mode, monospaced (Fira Code) stílus és azonnali hiba-visszajelzés.
-*   **Zero-Dependency**: A standard könyvtárakon kívül csak a `pywebview` szükséges a futtatáshoz.
+- **Hibrid technológia**: A Python stabilitása és a HTML5/CSS rugalmassága egyetlen alkalmazásban.
+- **Intelligens Padding**: Automatikusan korrigálja a hiányos Base64 stringeket a dekódolás előtt.
+- **Fejlesztői UI**: Sötét mód, monospaced (Fira Code) stílus és azonnali hiba-visszajelzés.
+- **Zero-Dependency**: A standard könyvtárakon kívül csak a `pywebview` szükséges a futtatáshoz.
 
 ---
 
-### 🛠️ Gyorsindítás
+## 🛠️ Gyorsindítás
 
 A szoftver futtatásához kövesd az alábbi egyszerű lépéseket:
 
@@ -39,3 +41,36 @@ pip install pywebview
 
 # Alkalmazás indítása
 python logic.py
+```
+
+---
+
+## 📂 Projektstruktúra
+
+A projekt a Separation of Concerns (SoC) elveit követi a maximális tisztaság és karbantarthatóság érdekében:
+
+- `logic.py` – Az alkalmazás magja: tartalmazza a backend logikát, a kommunikációs hidat és a beágyazott UI-t.
+- `.gitignore` – Előre konfigurált fájl a környezeti szemetek (`__pycache__`, `venv`, logok) kiszűrésére.
+- `requirements.txt` – A szükséges Python csomagok listája.
+
+---
+
+## 🧩 Technikai specifikáció
+
+- **Backend:** Python 3.10+ (Strict Base64 validation)
+- **Frontend:** HTML5, CSS Variables, ES6+ Async/Await
+- **Bridge:** PyWebView inter-process kommunikáció aszinkron API hívásokkal
+
+---
+
+## ⚠️ Disclaimer (Felelősségkizárás)
+
+Ez a szoftver oktatási és kényelmi célokat szolgál. Bár az alkalmazás offline működik, a felhasználó felelőssége az általa kezelt adatok biztonsága. A fejlesztő nem vállal felelősséget semmilyen adatvesztésért vagy a kód nem megfelelő használatából eredő kárért.
+
+Mindig győződj meg róla, hogy a forráskódot megbízható helyről szerezted be.
+
+---
+
+## 📜 Licenc
+
+Ez a projekt az **MIT Licenc** alatt áll – szabadon felhasználható, módosítható és terjeszthető akár kereskedelmi célokra is.
