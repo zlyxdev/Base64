@@ -99,7 +99,7 @@ UI_HTML = """
 </head>
 <body>
     <div class="container">
-        <header><h1>Base64 Studio Pro</h1></header>
+        <header><h1>Base64 Encode/Decode</h1></header>
         <div>
             <div class="field-label">Input Source</div>
             <textarea id="input" spellcheck="false"></textarea>
