@@ -16,8 +16,6 @@
 
 ---
 
-<img width="530" height="692" alt="Untitled" src="https://github.com/user-attachments/assets/1ef5c5b4-c4cf-4bbd-8f27-2a4e241814ac" />
-
 ## ⚡ Funkciók
 
 - **Adatbiztonság**: 100% offline működés, az adatok soha nem hagyják el a gépedet.
@@ -36,6 +34,8 @@ pip install pywebview
 
 python Base64/main.py
 ```
+
+<img width="532" height="684" alt="Untitled" src="https://github.com/user-attachments/assets/3d161281-edaa-4467-9aff-07ce30a94a8f" />
 
 ---
 
